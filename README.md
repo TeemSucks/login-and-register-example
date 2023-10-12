@@ -1,5 +1,7 @@
 # login and register example
 i wanted to acutaly do something helpful on this account so...
+
+i also kindof hate when websites use thirdparty authentication like auth0.com
 ## future updates
 uh.. if this gets 50 stars ill add profiles to it
 
