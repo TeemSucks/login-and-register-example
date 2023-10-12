@@ -18,6 +18,16 @@ const port = process.env.PORT || 8080;
 const uri = process.env.MONGODB_URI; // Replace with your MongoDB connection string in .env
 const databaseName = "DATA BASENAME";; // Replace with your database
 
+if (process.env.MONGODB_URI == 'mongodb+srv://your_MongoDB_URI') {
+    console.log("You need to provide a correct MongoDB URI in the .env file.");
+    process.exit(1);
+}
+
+if (databaseName == 'DATA BASENAME') {
+    console.log("You need to change your database name in index.js (line 19).");
+    process.exit(1);
+}
+
 // Setup rate limiter
 const limiter = rateLimit({
   windowMs: 15 * 60 * 1000, // 15 minutes
