@@ -29,7 +29,7 @@ npm i
 - add the uri to example.env
 - change the port if you want in example.env
 - rename example.env to .env
-- change databaseName (like 19) to your clusters name
+- change databaseName (line 19) to your clusters name
 - run `npm i` if you havent already
 ## run
 ```sh
