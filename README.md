@@ -5,7 +5,7 @@ next.js version here: https://github.com/TeemSucks/next-login-and-register-examp
 
 i also kindof hate when websites use thirdparty authentication like auth0.com
 ## future updates
-uh.. if this gets 50 stars ill add profiles to it
+uh.. if this gets 25 stars ill add profiles to it
 
 for 100 stars ill add css to it and will make an option which uses json instead of mongoDB in settings
 ## requirements
