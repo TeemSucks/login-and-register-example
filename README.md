@@ -38,3 +38,9 @@ npm i
 npm start
 ```
 Make sure to change settings in node.js and in example.env then rename example.env to .env
+
+i found this after and it seems to do the exact same thing but better..
+
+it just kindof overcomplicates some things imo but its better than the shit i made so watch it instead ig..
+
+https://www.youtube.com/watch?v=UbQBOkVyB1I
