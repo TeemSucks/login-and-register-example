@@ -4,6 +4,11 @@ i wanted to acutaly do something helpful on this account so...
 next.js version here: https://github.com/TeemSucks/next-login-and-register-example
 
 i also kindof hate when websites use thirdparty authentication like auth0.com
+
+### Warning:
+There currently is an issue with auth reuqired pages
+Click [here](https://github.com/TeemSucks/login-and-register-example/issues/2) for more info.
+
 ## future updates
 uh.. if this gets 25 stars ill add an option to use json or sqlite instead of mongoDB
 
